@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# MLflow
+mlflow.db
+
+# Virtual Environment
+.venv/
+
+# Data
+data/
