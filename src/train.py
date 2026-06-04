@@ -11,6 +11,7 @@ from sklearn.metrics import (
     roc_auc_score
 )
 
+mlflow.set_tracking_uri("http://127.0.0.1:5000")
 # 1. Initialize MLflow tracking to your local server
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 mlflow.set_experiment("Credit Risk Model")
