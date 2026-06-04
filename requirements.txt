@@ -1,9 +1,21 @@
+# Data processing
 pandas
 numpy
+
+# Machine Learning
 scikit-learn
 xgboost
+
 mlflow
+
+# API
 fastapi
 uvicorn
+pydantic
+
+# Testing
 pytest
+
+
 flake8
+joblib
